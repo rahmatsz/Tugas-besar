@@ -1,0 +1,1 @@
+<?php $_GET['m']='addmengajar'; require 'manager.php';

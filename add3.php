@@ -1,0 +1,1 @@
+<?php $_GET['m']='add3'; require 'manager.php';

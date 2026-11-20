@@ -1,0 +1,1 @@
+<?php $_GET['m']='users'; require 'manager.php';

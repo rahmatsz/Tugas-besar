@@ -1,0 +1,1 @@
+<?php $_GET['m']='addmapel'; require 'manager.php';

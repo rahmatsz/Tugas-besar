@@ -1,0 +1,1 @@
+<?php $_GET['m']='addsiswa'; require 'manager.php';
